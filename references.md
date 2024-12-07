@@ -1,0 +1,1 @@
+- https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/introduction/
