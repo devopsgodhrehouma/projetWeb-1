@@ -1,4 +1,4 @@
-**Prompt:** 
+**Prompt 01 :** 
 
 "Create a step-by-step tutorial to set up a project using Docusaurus with the Lovable theme. The tutorial should include instructions on creating and customizing the sidebar menu with the following categories:
 
@@ -17,3 +17,6 @@ Ensure the tutorial covers:
 5. Running the project locally to verify the custom menu.
 
 Provide concise commands, file configuration examples, and clear navigation steps."
+
+---------
+
